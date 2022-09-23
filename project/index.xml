@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Academic group name</title>
+    <link>http://example.org/project/</link>
+    <description>Recent content in Projects on Academic group name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Xiao Lab, 2022 </copyright>
+    <lastBuildDate>Wed, 13 Jul 2016 16:10:22 +0200</lastBuildDate><atom:link href="http://example.org/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reverse-engineering metabolic enzyme activity from gene expression profiles</title>
+      <link>http://example.org/project/metabolism/</link>
+      <pubDate>Wed, 13 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>http://example.org/project/metabolism/</guid>
+      <description>This project is on going &amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>A novel strategy for clustering single cells and defining the hierarchical relationship of cell clusters </title>
+      <link>http://example.org/project/scrna/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>http://example.org/project/scrna/</guid>
+      <description>This project is on going &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Identify of gene functional differences based on dynamic features of single-cell data </title>
+      <link>http://example.org/project/dynamic_reg/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>http://example.org/project/dynamic_reg/</guid>
+      <description>This project is ongoing &amp;hellip; </description>
+    </item>
+    
+  </channel>
+</rss>

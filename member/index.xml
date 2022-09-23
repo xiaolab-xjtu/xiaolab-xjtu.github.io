@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on Academic group name</title>
+    <link>http://example.org/member/</link>
+    <description>Recent content in Members on Academic group name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Xiao Lab, 2022 </copyright>
+    <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate><atom:link href="http://example.org/member/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Member 1</title>
+      <link>http://example.org/member/xiaozhengtao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/xiaozhengtao/</guid>
+      <description>I am a Associate Professor in School of Basic Medical Sciences at Xi’an Jiaotong University. Prior to joining XJTU, I completed my Ph.D. in Xuerui Yang&amp;rsquo;s lab at Tsinghua University, where I studied the gene dysregulations of cancers at both transcriptional and translational levels based on high-throughput sequencing techniques. Then, I worked as a postdoctoral associate in Jason Locasale&amp;rsquo;s Lab at Duke University, studying cancer metabolism and tumor microenvironment at single cell resolution.</description>
+    </item>
+    
+    <item>
+      <title>Member 2</title>
+      <link>http://example.org/member/fabotao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/fabotao/</guid>
+      <description>I am an Assistant Professor in School of Basic Medical Sciences at Xi&amp;rsquo;an Jiaotong University. Before joining XJTU, I completed my Ph.D. in Zhangsheng Yu&amp;rsquo;s lab at Shanghai Jiao Tong University, where I developed method for rare cell type identification and subtyping of HCC (hepatocellular carcinoma) using (sc)RNA-seq transcriptome.</description>
+    </item>
+    
+    <item>
+      <title>Member 3</title>
+      <link>http://example.org/member/huangchao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/huangchao/</guid>
+      <description>I am a Assistant Professor in School of Basic Medical Sciences at Xi’an Jiaotong University. I completed my Ph.D. at Northwest A&amp;amp;F University, where I mainly engaged in single-cell tumor microenvironment analysis and computer-aided drug development. My main focus is on resistance to immune checkpoint blockade therapy and the discovery of synergistic treatments.</description>
+    </item>
+    
+    <item>
+      <title>Member 4</title>
+      <link>http://example.org/member/zhuyanan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/zhuyanan/</guid>
+      <description>I am the research assistant of Associate Professor Zhengtao Xiao&amp;rsquo;s research group in Xi &amp;lsquo;an Jiaotong University School of Basic Medicine. Before joining Xi &amp;lsquo;an Jiaotong University, I completed my master&amp;rsquo;s degree in Nanjing Normal University. After one year of work, I joined Associate Professor Zhengtao Xiao&amp;rsquo;s to study metabolism and tumor microenvironment at single cell resolution.</description>
+    </item>
+    
+    <item>
+      <title>Member 5</title>
+      <link>http://example.org/member/liyuhan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/liyuhan/</guid>
+      <description>I am a direct doctoral student in Mr. Xiao&amp;rsquo;s research group. I graduated from Northwest A&amp;amp;F University with a bachelor&amp;rsquo;s degree. in 2022，I joined the laboratory and carried out research on bioinformatics and tumor metabolism.</description>
+    </item>
+    
+    <item>
+      <title>Member 6</title>
+      <link>http://example.org/member/wangbinxian/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/wangbinxian/</guid>
+      <description>I am a master student in Mr. Xiao&amp;rsquo;s research group. I graduated from Xi&amp;rsquo;an Jiaotong University with a bachelor&amp;rsquo;s degree. in 2021, I joined the laboratory and carried out research on bioinformatics and tumor metabolism.</description>
+    </item>
+    
+    <item>
+      <title>member 7</title>
+      <link>http://example.org/member/liuruonan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/liuruonan/</guid>
+      <description>I am a 2022 graduate student in School of Basic Medical Sciences at Xi &amp;lsquo;an Jiaotong University. I graduated from Dalian Medical University with a bachelor&amp;rsquo;s degree in preventive medicine, during which I learned biostatistics, epidemiology and other professional courses. In this summer vacation, I taught myself R language, RNA-seq analysis and other bioinformatics skills.</description>
+    </item>
+    
+    <item>
+      <title>Member 8</title>
+      <link>http://example.org/member/cuihanxiao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/cuihanxiao/</guid>
+      <description>I am a master student learning bioinformatics in Dr.Xiao&amp;rsquo;s research group. I joined the lab and carried out my research on bioinformatics and tumor metabolism.</description>
+    </item>
+    
+    <item>
+      <title>Member 9</title>
+      <link>http://example.org/member/baoyuanhang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/baoyuanhang/</guid>
+      <description>I am a master student learning bioinformatics in Dr.Xiao&amp;rsquo;s research group. I graduated from Xi&amp;rsquo;an Jiaotong University with a bachelor&amp;rsquo;s degree in 2021. Then, I joined the lab and carried out my research on bioinformatics and tumor metabolism.</description>
+    </item>
+    
+    <item>
+      <title>Member 91</title>
+      <link>http://example.org/member/liuhuilin/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/liuhuilin/</guid>
+      <description>I am a graduate student of Life Science College of Life Science at Northwest Normal University. Currently, I am learning how to screen anti-tumor compounds by network pharmacology from the laboratory of Professor Zhengtao Xiao of Basic Medical Sciences of Xi &amp;lsquo;an Jiaotong University.</description>
+    </item>
+    
+  </channel>
+</rss>

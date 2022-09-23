@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Academic group name</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on Academic group name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Xiao Lab, 2022 </copyright>
+    <lastBuildDate>Wed, 14 Sep 2022 15:50:58 +0200</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contrats to Chao and Botao for receiving two NSFC grants !</title>
+      <link>http://example.org/post/news1/</link>
+      <pubDate>Wed, 14 Sep 2022 15:50:58 +0200</pubDate>
+      
+      <guid>http://example.org/post/news1/</guid>
+      <description>Contrats to Chao and Botao for receiving two NSFC grants ! </description>
+    </item>
+    
+    <item>
+      <title>Welcome Li Yuhan and Liu Ruonan join the lab!</title>
+      <link>http://example.org/post/news0/</link>
+      <pubDate>Tue, 13 Sep 2022 15:50:58 +0200</pubDate>
+      
+      <guid>http://example.org/post/news0/</guid>
+      <description>Welcome Li Yuhan and Liu Ruonan join the lab! </description>
+    </item>
+    
+  </channel>
+</rss>
