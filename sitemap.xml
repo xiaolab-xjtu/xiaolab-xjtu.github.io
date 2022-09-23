@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xiaolab-xjtu.github.io/</loc>
-    <lastmod>2022-09-14T15:50:58+02:00</lastmod>
-  </url><url>
     <loc>https://xiaolab-xjtu.github.io/post/news1/</loc>
     <lastmod>2022-09-14T15:50:58+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/post/</loc>
+    <lastmod>2022-09-14T15:50:58+02:00</lastmod>
+  </url><url>
+    <loc>https://xiaolab-xjtu.github.io/</loc>
     <lastmod>2022-09-14T15:50:58+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/post/news0/</loc>
@@ -42,9 +42,6 @@
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/member/fabotao/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/huangchao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/member/zhuyanan/</loc>

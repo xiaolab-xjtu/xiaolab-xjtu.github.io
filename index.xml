@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic group name</title>
+    <title>XiaoLab</title>
     <link>https://xiaolab-xjtu.github.io/</link>
-    <description>Recent content on Academic group name</description>
+    <description>Recent content on XiaoLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Xiao Lab, 2022 </copyright>
     <lastBuildDate>Wed, 14 Sep 2022 15:50:58 +0200</lastBuildDate><atom:link href="https://xiaolab-xjtu.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -95,15 +95,6 @@
       
       <guid>https://xiaolab-xjtu.github.io/member/fabotao/</guid>
       <description>I am an Assistant Professor in School of Basic Medical Sciences at Xi&amp;rsquo;an Jiaotong University. Before joining XJTU, I completed my Ph.D. in Zhangsheng Yu&amp;rsquo;s lab at Shanghai Jiao Tong University, where I developed method for rare cell type identification and subtyping of HCC (hepatocellular carcinoma) using (sc)RNA-seq transcriptome.</description>
-    </item>
-    
-    <item>
-      <title>Member 3</title>
-      <link>https://xiaolab-xjtu.github.io/member/huangchao/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://xiaolab-xjtu.github.io/member/huangchao/</guid>
-      <description>I am a Assistant Professor in School of Basic Medical Sciences at Xi’an Jiaotong University. I completed my Ph.D. at Northwest A&amp;amp;F University, where I mainly engaged in single-cell tumor microenvironment analysis and computer-aided drug development. My main focus is on resistance to immune checkpoint blockade therapy and the discovery of synergistic treatments.</description>
     </item>
     
     <item>

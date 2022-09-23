@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Academic group name</title>
+    <title>Publications on XiaoLab</title>
     <link>https://xiaolab-xjtu.github.io/publication/</link>
-    <description>Recent content in Publications on Academic group name</description>
+    <description>Recent content in Publications on XiaoLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Xiao Lab, 2022 </copyright>
     <lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xiaolab-xjtu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
