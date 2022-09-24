@@ -62,21 +62,21 @@
     </item>
     
     <item>
-      <title>A novel strategy for clustering single cells and defining the hierarchical relationship of cell clusters </title>
-      <link>https://xiaolab-xjtu.github.io/project/scrna/</link>
-      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
-      
-      <guid>https://xiaolab-xjtu.github.io/project/scrna/</guid>
-      <description>This project is on going &amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Identify of gene functional differences based on dynamic features of single-cell data </title>
+      <title>A information entropy-based strategy for studying the dynamic interactions among genes at single cell resolution</title>
       <link>https://xiaolab-xjtu.github.io/project/dynamic_reg/</link>
       <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
       
       <guid>https://xiaolab-xjtu.github.io/project/dynamic_reg/</guid>
       <description>This project is ongoing &amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>A novel strategy for clustering single cells and defining the hierarchical relationship of cell clusters </title>
+      <link>https://xiaolab-xjtu.github.io/project/scrna/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>https://xiaolab-xjtu.github.io/project/scrna/</guid>
+      <description>This project is on going &amp;hellip; </description>
     </item>
     
     <item>
@@ -95,6 +95,15 @@
       
       <guid>https://xiaolab-xjtu.github.io/member/fabotao/</guid>
       <description>I am an Assistant Professor in School of Basic Medical Sciences at Xi&amp;rsquo;an Jiaotong University. Before joining XJTU, I completed my Ph.D. in Zhangsheng Yu&amp;rsquo;s lab at Shanghai Jiao Tong University, where I developed method for rare cell type identification and subtyping of HCC (hepatocellular carcinoma) using (sc)RNA-seq transcriptome.</description>
+    </item>
+    
+    <item>
+      <title>Member 3</title>
+      <link>https://xiaolab-xjtu.github.io/member/huangchao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://xiaolab-xjtu.github.io/member/huangchao/</guid>
+      <description>I am a Assistant Professor in School of Basic Medical Sciences at Xi’an Jiaotong University. I completed my Ph.D. at Northwest A&amp;amp;F University, where I mainly engaged in single-cell tumor microenvironment analysis and computer-aided drug development. The main focus of my work is to understand the resistance mechanisms of immune checkpoint blockade therapy and to develop a synergistic combination strategy for tumor treatment.</description>
     </item>
     
     <item>
@@ -166,7 +175,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xiaolab-xjtu.github.io/about/</guid>
-      <description>About Cells need nutrition and energy to growth and divide. Cancer cells have the same needs as normal cells, but use different metabolic programs to proliferate in an uncontrolled manner. In the complex tumor microenvironment (TME) consists of different cullular, including nontumor cells and non-cellular components in and around tumor, diverse regulation of gene transcription, translation, and metabolism occurs in different types of cells. Systematically characterizing the metabolic behavior of cells at the specific genetic and environmental conditions, and understanding how the metabolism is controlled can provide critical insights for therapeutic targeting for cancer therapy.</description>
+      <description>About Cells need nutrition and energy to growth and divide. Cancer cells have the same needs as normal cells, but use different metabolic programs to proliferate in an uncontrolled manner, which therefore provide vulnerabilities that can serve as therapeutic targets. However, a bottleneck for targeting cancer metabolism is the current lack of precisely kill cancer cells but avoid damage to normal cells.
+Tumor is a complicated system which is consists of different cullular (e.</description>
     </item>
     
     <item>
@@ -192,7 +202,7 @@
 (3) 在相关领域取得明显业绩，具有良好的学术发展潜力；
 (4) 须全职在校工作。
 类别及重点招聘领域：
-   类别 重点招聘领域     学科博士后 支撑学科、重点团队建设，主要布局在医学基础学科、传统学科新方向、新兴交叉学科等重点领域。   项目博士后 保障科研任务实施，依托有科研项目和经费的团队招收。   联合培养博士后 面向经济社会需求，支撑创新研发及推广、高端智库建设等，根据学校与政府、企事业单位合作需求，依托校内科研团队与合作单位联合招收。    交大一流品牌的中、小、幼将为入选者子女提供优质基础教育资源，解决您工作、生活的后顾之忧。真诚期待您的加盟！</description>
+类别 重点招聘领域 学科博士后 支撑学科、重点团队建设，主要布局在医学基础学科、传统学科新方向、新兴交叉学科等重点领域。 项目博士后 保障科研任务实施，依托有科研项目和经费的团队招收。 联合培养博士后 面向经济社会需求，支撑创新研发及推广、高端智库建设等，根据学校与政府、企事业单位合作需求，依托校内科研团队与合作单位联合招收。 交大一流品牌的中、小、幼将为入选者子女提供优质基础教育资源，解决您工作、生活的后顾之忧。真诚期待您的加盟！</description>
     </item>
     
     <item>
@@ -201,7 +211,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xiaolab-xjtu.github.io/pics/</guid>
-      <description>Lab events &amp;amp; pictures DINNER (2022.9)  </description>
+      <description>Lab events &amp;amp; pictures DINNER (2022.9) </description>
     </item>
     
     <item>
@@ -210,8 +220,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xiaolab-xjtu.github.io/publications/</guid>
-      <description>Publications: 2022  Zhu, Y., Li, F., Yang, X. &amp;amp; Xiao, Z. De novo Identification of Actively Translated Open Reading Frames with Ribosome Profiling Data. Journal of Visualized Experiments, doi:10.3791/63366 (2022). Link  2021   Xiao, Z. &amp;amp; Locasale, J. W. Epigenomic links from metabolism-methionine and chromatin architecture. Curr. Opin. Chem. Biol. 63, 11-18, doi:10.1016/j.cbpa.2021.01.011 (2021). Link
-  Di Conza, G., Tsai, C. H., Gallart-Ayala, H., Yu, Y. R.</description>
+      <description>Publications: 2022 Zhu, Y., Li, F., Yang, X. &amp;amp; Xiao, Z. De novo Identification of Actively Translated Open Reading Frames with Ribosome Profiling Data. Journal of Visualized Experiments, doi:10.3791/63366 (2022). Link 2021 Xiao, Z. &amp;amp; Locasale, J. W. Epigenomic links from metabolism-methionine and chromatin architecture. Curr. Opin. Chem. Biol. 63, 11-18, doi:10.1016/j.cbpa.2021.01.011 (2021). Link
+Di Conza, G., Tsai, C. H., Gallart-Ayala, H., Yu, Y. R., Franco, F., Zaffalon, L., Xie, X.</description>
     </item>
     
     <item>
@@ -220,8 +230,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xiaolab-xjtu.github.io/research/</guid>
-      <description>Research Systematic investigation of metabolic reprogramming in different cancers based on multiple-omics data Cancer is a heterogeneous disease. Characterization of such heterogeneity at different scales and resolutions is not well established. Our research strategy consists in leveraging cutting-edge sequencing techniques and bioinformatic approaches to ultimately understand various aspect of tumors.
-We have developped a computational pipeline to study metabolic programs in single cells (https://github.com/zhengtaoxiao/Single-Cell-Metabolic-Landscape). By applying this algorithm to two representative human cancers, melanoma and head and neck, we enable to explore the metabolic landscape of different cell type/subtypes and to define principles of the tumor microenvironment (Xiao et al.</description>
+      <description>Research Systematic investigation of metabolic reprogramming in different cancers based on multi-omics data Cancer is a heterogeneous disease. Characterization of such heterogeneity at different scales and resolutions is not well established. Our research strategy consists in leveraging cutting-edge sequencing techniques and bioinformatic approaches to ultimately understand various aspect of tumors.
+We have developped a computational pipeline to study metabolic programs in single cells (https://github.com/zhengtaoxiao/Single-Cell-Metabolic-Landscape). By applying this workflow to two representative human cancers, melanoma and head and neck, we enable to explore the metabolic features of different cell type/subtypes and to define principles of the tumor microenvironment (Xiao et al.</description>
     </item>
     
     <item>
@@ -230,9 +240,9 @@ We have developped a computational pipeline to study metabolic programs in singl
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xiaolab-xjtu.github.io/resources/</guid>
-      <description>Resources Internal links  LabWiki LabNas GenomeBrowser  External links  NCBI PubMed TCGA KEGG UCSC Metascape  Software and workflows   Xtail an R package for genome-wide assessment of differential translations with ribosome profiling data .
-  RiboCode a very simple but high-quality computational algorithm to identify genome-wide translated ORFs using ribosome-profiling data.
-  Single cell metabolic landscape a workflow for exploring metabolic landscape in the tumor microenvironment using single-cell RNA sequencing data.</description>
+      <description>Resources Internal links LabWiki LabNas GenomeBrowser External links NCBI PubMed TCGA KEGG UCSC Metascape Software and workflows Xtail an R package for genome-wide assessment of differential translations with ribosome profiling data .
+RiboCode a very simple but high-quality computational algorithm to identify genome-wide translated ORFs using ribosome-profiling data.
+Single cell metabolic landscape a workflow for exploring metabolic landscape in the tumor microenvironment using single-cell RNA sequencing data.</description>
     </item>
     
   </channel>
