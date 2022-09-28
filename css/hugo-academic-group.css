@@ -646,6 +646,16 @@ section#projects.home-section .project-tags {
 #contact li span {
     padding-left: 10px;
 }
+#contact li .addpics a img{
+    height:200px;
+    width:auto;
+    float:left;
+}
+#contact li .addpics{
+    height:200px;
+    width:auto;
+ }
+ 
 
 /*************************************************
  *  Sponsors
