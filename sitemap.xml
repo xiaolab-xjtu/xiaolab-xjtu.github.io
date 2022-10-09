@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xiaolab-xjtu.github.io/post/news1/</loc>
+    <loc>https://xiaolab-xjtu.github.io/post/news2/</loc>
     <lastmod>2022-09-14T15:50:58+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/post/</loc>
@@ -11,8 +11,11 @@
     <loc>https://xiaolab-xjtu.github.io/</loc>
     <lastmod>2022-09-14T15:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/post/news0/</loc>
+    <loc>https://xiaolab-xjtu.github.io/post/news1/</loc>
     <lastmod>2022-09-13T15:50:58+02:00</lastmod>
+  </url><url>
+    <loc>https://xiaolab-xjtu.github.io/post/news0/</loc>
+    <lastmod>2022-08-05T15:50:58+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/publication/jove_2022/</loc>
     <lastmod>2022-02-18T00:00:00+00:00</lastmod>
@@ -32,16 +35,19 @@
     <loc>https://xiaolab-xjtu.github.io/project/metabolism/</loc>
     <lastmod>2016-07-13T16:10:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/project/scrna/</loc>
+    <loc>https://xiaolab-xjtu.github.io/project/dynamic_reg/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/project/dynamic_reg/</loc>
+    <loc>https://xiaolab-xjtu.github.io/project/scrna/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/member/xiaozhengtao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/member/fabotao/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url><url>
+    <loc>https://xiaolab-xjtu.github.io/member/huangchao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/member/zhuyanan/</loc>
@@ -67,6 +73,9 @@
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/member/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url><url>
+    <loc>https://xiaolab-xjtu.github.io/member/huliqun/</loc>
+    <lastmod>2015-09-24T15:52:22+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/about/</loc>
     <priority>0</priority>

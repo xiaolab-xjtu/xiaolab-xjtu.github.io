@@ -49,10 +49,10 @@ header{
 }
 
 .header-content .header-content-inner p {
-    margin-bottom: 50px;
+    margin-bottom: 0px;
     font-size: 18px;
     font-weight: 350;
-    color: rgba(255,255,255,.7);
+    color: rgb(255, 255, 255);
 }
 
 .slogan-column {
@@ -133,13 +133,13 @@ h4 {
 
 a, a:visited,
 h3.article-title a:hover {
-    color: #006199;
+    color: #0f78e9;
     text-decoration:none;
     transition:color 0.6s ease;
 }
 
 a:hover {
-    color: #005181;
+    color: #d0e0ea;
 }
 
 img,
@@ -646,6 +646,16 @@ section#projects.home-section .project-tags {
 #contact li span {
     padding-left: 10px;
 }
+#contact li .addpics a img{
+    height:200px;
+    width:auto;
+    float:left;
+}
+#contact li .addpics{
+    height:200px;
+    width:auto;
+ }
+ 
 
 /*************************************************
  *  Sponsors
