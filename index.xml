@@ -6,7 +6,16 @@
     <description>Recent content on XiaoLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Xiao Lab, 2022 </copyright>
-    <lastBuildDate>Wed, 14 Sep 2022 15:50:58 +0200</lastBuildDate><atom:link href="https://xiaolab-xjtu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xiaolab-xjtu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Single-cell transcriptomic analysis of normal and pathological tissues from the same patient uncovers colon cancer progression</title>
+      <link>https://xiaolab-xjtu.github.io/publication/cellbioscience/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaolab-xjtu.github.io/publication/cellbioscience/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Contrats to Chao and Botao for receiving two NSFC grants !</title>
       <link>https://xiaolab-xjtu.github.io/post/news2/</link>
@@ -71,21 +80,21 @@
     </item>
     
     <item>
-      <title>A information entropy-based strategy for studying the dynamic interactions among genes at single cell resolution</title>
-      <link>https://xiaolab-xjtu.github.io/project/dynamic_reg/</link>
-      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
-      
-      <guid>https://xiaolab-xjtu.github.io/project/dynamic_reg/</guid>
-      <description>This project is ongoing &amp;hellip; </description>
-    </item>
-    
-    <item>
       <title>A novel strategy for clustering single cells and defining the hierarchical relationship of cell clusters </title>
       <link>https://xiaolab-xjtu.github.io/project/scrna/</link>
       <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
       
       <guid>https://xiaolab-xjtu.github.io/project/scrna/</guid>
       <description>This project is on going &amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>An information entropy-based strategy for studying the dynamic interactions among genes at single cell resolution</title>
+      <link>https://xiaolab-xjtu.github.io/project/dynamic_reg/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>https://xiaolab-xjtu.github.io/project/dynamic_reg/</guid>
+      <description>This project is ongoing &amp;hellip; </description>
     </item>
     
     <item>
@@ -134,6 +143,15 @@
     </item>
     
     <item>
+      <title>Member 51</title>
+      <link>https://xiaolab-xjtu.github.io/member/liuxuan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://xiaolab-xjtu.github.io/member/liuxuan/</guid>
+      <description>I am a doctoral student in Mr. Xiao&amp;rsquo;s research group. I graduated from Hebei University with a bachelor&amp;rsquo;s degree.In 2022，I joined the laboratory and carried out research on Spatial Transcriptomics and Spatial Metabolome.</description>
+    </item>
+    
+    <item>
       <title>Member 6</title>
       <link>https://xiaolab-xjtu.github.io/member/wangbinxian/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
@@ -170,7 +188,7 @@
     </item>
     
     <item>
-      <title>Member 91</title>
+      <title>Member 92</title>
       <link>https://xiaolab-xjtu.github.io/member/liuhuilin/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
@@ -179,7 +197,16 @@
     </item>
     
     <item>
-      <title>Member </title>
+      <title>Member 93</title>
+      <link>https://xiaolab-xjtu.github.io/member/quqiuhao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://xiaolab-xjtu.github.io/member/quqiuhao/</guid>
+      <description>I am a graduate student of Life Science College of cytobiology at AnHui Medical University. Currently, I am learning how to screen tumor-specific transcriptional regulation factor in Lung cancer from the laboratory of Professor Zhengtao Xiao of Basic Medical Sciences of Xi &amp;lsquo;an Jiaotong University.</description>
+    </item>
+    
+    <item>
+      <title>Member 91</title>
       <link>https://xiaolab-xjtu.github.io/member/huliqun/</link>
       <pubDate>Thu, 24 Sep 2015 15:52:22 +0200</pubDate>
       
@@ -238,8 +265,7 @@ Tumor is a complicated system which is consists of different cullular (e.</descr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xiaolab-xjtu.github.io/publications/</guid>
-      <description>Publications: 2022 Zhu, Y., Li, F., Yang, X. &amp;amp; Xiao, Z. De novo Identification of Actively Translated Open Reading Frames with Ribosome Profiling Data. Journal of Visualized Experiments, doi:10.3791/63366 (2022). Link 2021 Xiao, Z. &amp;amp; Locasale, J. W. Epigenomic links from metabolism-methionine and chromatin architecture. Curr. Opin. Chem. Biol. 63, 11-18, doi:10.1016/j.cbpa.2021.01.011 (2021). Link
-Di Conza, G., Tsai, C. H., Gallart-Ayala, H., Yu, Y. R., Franco, F., Zaffalon, L., Xie, X.</description>
+      <description>Publications: 2023 Sun R, Yang Y, Lü W, Yang Y, Li Y, Liu Z, Diao D, Wang Y, Chang S, Lu M, Jiang Q, Dai B, Ma X, Zhao C, Lü M, Zhang J, Ding C, Li N, Zhang J, Xiao Z, Zhou D, Huang C. Single-cell transcriptomic analysis of normal and pathological tissues from the same patient uncovers colon cancer progression. Cell Biosci. 2023 Mar 21;13(1):62. doi: 10.1186/s13578-023-01002-w. Link 2022 Zhu, Y.</description>
     </item>
     
     <item>
