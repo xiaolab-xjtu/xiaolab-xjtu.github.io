@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xiaolab-xjtu.github.io/post/news11/</loc>
-    <lastmod>2023-08-24T15:50:58+02:00</lastmod>
+    <loc>https://xiaolab-xjtu.github.io/post/news15/</loc>
+    <lastmod>2025-11-25T15:50:58+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/post/</loc>
-    <lastmod>2023-08-24T15:50:58+02:00</lastmod>
+    <lastmod>2025-11-25T15:50:58+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/</loc>
+    <lastmod>2025-11-25T15:50:58+02:00</lastmod>
+  </url><url>
+    <loc>https://xiaolab-xjtu.github.io/post/news14/</loc>
+    <lastmod>2025-03-07T15:50:58+02:00</lastmod>
+  </url><url>
+    <loc>https://xiaolab-xjtu.github.io/post/news13/</loc>
+    <lastmod>2024-12-01T15:50:58+02:00</lastmod>
+  </url><url>
+    <loc>https://xiaolab-xjtu.github.io/post/news12/</loc>
+    <lastmod>2024-06-24T15:50:58+02:00</lastmod>
+  </url><url>
+    <loc>https://xiaolab-xjtu.github.io/post/news11/</loc>
     <lastmod>2023-08-24T15:50:58+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/post/news10/</loc>
@@ -65,71 +77,80 @@
     <loc>https://xiaolab-xjtu.github.io/project/dynamic_reg/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/xiaozhengtao/</loc>
+    <loc>https://xiaolab-xjtu.github.io/alumni/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/fabotao/</loc>
+    <loc>https://xiaolab-xjtu.github.io/member/1-xiaozhengtao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/huangchao/</loc>
+    <loc>https://xiaolab-xjtu.github.io/member/2-fabotao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/zhuyanan/</loc>
+    <loc>https://xiaolab-xjtu.github.io/member/3-huangchao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/wangbinxian/</loc>
+    <loc>https://xiaolab-xjtu.github.io/member/4-liuxuan/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/liyuhan/</loc>
+    <loc>https://xiaolab-xjtu.github.io/member/5-liuzhenni/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/liuruonan/</loc>
+    <loc>https://xiaolab-xjtu.github.io/member/6-liyuhan/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/liuxuan/</loc>
+    <loc>https://xiaolab-xjtu.github.io/member/7-wangwanting/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/liuzhenni/</loc>
+    <loc>https://xiaolab-xjtu.github.io/member/8-zhangtian/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/liuyiyi/</loc>
+    <loc>https://xiaolab-xjtu.github.io/member/9-mayixin/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/cuihanxiao/</loc>
+    <loc>https://xiaolab-xjtu.github.io/alumni/1-zhuyanan/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/baoyuanhang/</loc>
+    <loc>https://xiaolab-xjtu.github.io/member/10-zhangzhitao/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/quqiuhao/</loc>
+    <loc>https://xiaolab-xjtu.github.io/alumni/wangbinxian/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/liuhuilin/</loc>
+    <loc>https://xiaolab-xjtu.github.io/alumni/liuruonan/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url><url>
+    <loc>https://xiaolab-xjtu.github.io/alumni/liuyiyi/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url><url>
+    <loc>https://xiaolab-xjtu.github.io/alumni/cuihanxiao/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url><url>
+    <loc>https://xiaolab-xjtu.github.io/alumni/baoyuanhang/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url><url>
+    <loc>https://xiaolab-xjtu.github.io/alumni/quqiuhao/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url><url>
+    <loc>https://xiaolab-xjtu.github.io/alumni/liuhuilin/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/member/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://xiaolab-xjtu.github.io/member/huliqun/</loc>
+    <loc>https://xiaolab-xjtu.github.io/alumni/huliqun/</loc>
     <lastmod>2015-09-24T15:52:22+02:00</lastmod>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/about/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/contact/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/pics/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/publications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/research/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/resources/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://xiaolab-xjtu.github.io/categories/</loc>
   </url><url>

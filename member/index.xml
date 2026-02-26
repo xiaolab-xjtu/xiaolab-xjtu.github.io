@@ -5,141 +5,97 @@
     <link>https://xiaolab-xjtu.github.io/member/</link>
     <description>Recent content in Members on XiaoLab</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <copyright>&amp;copy; Xiao Lab, 2022 </copyright>
     <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate><atom:link href="https://xiaolab-xjtu.github.io/member/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Member 1</title>
-      <link>https://xiaolab-xjtu.github.io/member/xiaozhengtao/</link>
+      <title>Member 01</title>
+      <link>https://xiaolab-xjtu.github.io/member/1-xiaozhengtao/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://xiaolab-xjtu.github.io/member/xiaozhengtao/</guid>
+      <guid>https://xiaolab-xjtu.github.io/member/1-xiaozhengtao/</guid>
       <description>I am a Associate Professor in School of Basic Medical Sciences at Xi’an Jiaotong University. Prior to joining XJTU, I completed my Ph.D. in Xuerui Yang&amp;rsquo;s lab at Tsinghua University, where I studied the gene dysregulations of cancers at both transcriptional and translational levels based on high-throughput sequencing techniques. Then, I worked as a postdoctoral associate in Jason Locasale&amp;rsquo;s Lab at Duke University, studying cancer metabolism and tumor microenvironment at single cell resolution.</description>
     </item>
     
     <item>
-      <title>Member 20</title>
-      <link>https://xiaolab-xjtu.github.io/member/fabotao/</link>
+      <title>Member 02</title>
+      <link>https://xiaolab-xjtu.github.io/member/2-fabotao/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://xiaolab-xjtu.github.io/member/fabotao/</guid>
+      <guid>https://xiaolab-xjtu.github.io/member/2-fabotao/</guid>
       <description>I am an Assistant Professor in School of Basic Medical Sciences at Xi&amp;rsquo;an Jiaotong University. Before joining XJTU, I completed my Ph.D. in Zhangsheng Yu&amp;rsquo;s lab at Shanghai Jiao Tong University, where I developed method for rare cell type identification and subtyping of HCC (hepatocellular carcinoma) using (sc)RNA-seq transcriptome.</description>
     </item>
     
     <item>
-      <title>Member 21</title>
-      <link>https://xiaolab-xjtu.github.io/member/huangchao/</link>
+      <title>Member 03</title>
+      <link>https://xiaolab-xjtu.github.io/member/3-huangchao/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://xiaolab-xjtu.github.io/member/huangchao/</guid>
+      <guid>https://xiaolab-xjtu.github.io/member/3-huangchao/</guid>
       <description>I am a Assistant Professor in School of Basic Medical Sciences at Xi’an Jiaotong University. I completed my Ph.D. at Northwest A&amp;amp;F University, where I mainly engaged in single-cell tumor microenvironment analysis and computer-aided drug development. The main focus of my work is to understand the resistance mechanisms of immune checkpoint blockade therapy and to develop a synergistic combination strategy for tumor treatment.</description>
     </item>
     
     <item>
-      <title>Member 22</title>
-      <link>https://xiaolab-xjtu.github.io/member/zhuyanan/</link>
+      <title>member 04</title>
+      <link>https://xiaolab-xjtu.github.io/member/4-liuxuan/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://xiaolab-xjtu.github.io/member/zhuyanan/</guid>
-      <description>I am the research assistant of Associate Professor Zhengtao Xiao&amp;rsquo;s research group in Xi &amp;lsquo;an Jiaotong University School of Basic Medicine. Before joining Xi &amp;lsquo;an Jiaotong University, I completed my master&amp;rsquo;s degree in Nanjing Normal University. After one year of work, I joined Associate Professor Zhengtao Xiao&amp;rsquo;s to study metabolism and tumor microenvironment at single cell resolution.</description>
-    </item>
-    
-    <item>
-      <title>Member 30</title>
-      <link>https://xiaolab-xjtu.github.io/member/wangbinxian/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://xiaolab-xjtu.github.io/member/wangbinxian/</guid>
-      <description>I am a master student in Mr. Xiao&amp;rsquo;s research group. I graduated from Xi&amp;rsquo;an Jiaotong University with a bachelor&amp;rsquo;s degree. in 2021, I joined the laboratory and carried out research on bioinformatics and tumor metabolism.</description>
-    </item>
-    
-    <item>
-      <title>Member 31</title>
-      <link>https://xiaolab-xjtu.github.io/member/liyuhan/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://xiaolab-xjtu.github.io/member/liyuhan/</guid>
-      <description>I am a direct doctoral student in Mr. Xiao&amp;rsquo;s research group. I graduated from Northwest A&amp;amp;F University with a bachelor&amp;rsquo;s degree. in 2022，I joined the laboratory and carried out research on bioinformatics and tumor metabolism.</description>
-    </item>
-    
-    <item>
-      <title>member 32</title>
-      <link>https://xiaolab-xjtu.github.io/member/liuruonan/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://xiaolab-xjtu.github.io/member/liuruonan/</guid>
-      <description>I am a 2022 graduate student in School of Basic Medical Sciences at Xi &amp;lsquo;an Jiaotong University. I graduated from Dalian Medical University with a bachelor&amp;rsquo;s degree in preventive medicine, during which I learned biostatistics, epidemiology and other professional courses. In this summer vacation, I taught myself R language, RNA-seq analysis and other bioinformatics skills.</description>
-    </item>
-    
-    <item>
-      <title>member 33</title>
-      <link>https://xiaolab-xjtu.github.io/member/liuxuan/</link>
-      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
-      
-      <guid>https://xiaolab-xjtu.github.io/member/liuxuan/</guid>
+      <guid>https://xiaolab-xjtu.github.io/member/4-liuxuan/</guid>
       <description>In 2018, I graduated form Hebei University with double bachelor&amp;rsquo;s degree in Nursing and French. After 3 years, I got master of Medicine in Xi&amp;rsquo;an Jiaotong University. At present, I am a doctoral student in the school of Basic Medical Sciences at Xi&amp;rsquo;an Jiaotong University. Durin my doctoral period, applying spatial omivs techologies to investigate biological questions in cancer is my main research direction.</description>
     </item>
     
     <item>
-      <title>member 34</title>
-      <link>https://xiaolab-xjtu.github.io/member/liuzhenni/</link>
+      <title>member 05</title>
+      <link>https://xiaolab-xjtu.github.io/member/5-liuzhenni/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://xiaolab-xjtu.github.io/member/liuzhenni/</guid>
+      <guid>https://xiaolab-xjtu.github.io/member/5-liuzhenni/</guid>
       <description>I am a 2022 graduate student in School of Basic Medical Sciences at Xi &amp;lsquo;an Jiaotong University. I graduated from Northwest Agriculture and Forestry University with a bachelor&amp;rsquo;s degree in biotechnology, during which I learned biostatistics, epidemiology and other professional courses. In this summer vacation, I taught myself R language, RNA-seq analysis and other bioinformatics skills.</description>
     </item>
     
     <item>
-      <title>member 35</title>
-      <link>https://xiaolab-xjtu.github.io/member/liuyiyi/</link>
+      <title>Member 06</title>
+      <link>https://xiaolab-xjtu.github.io/member/6-liyuhan/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://xiaolab-xjtu.github.io/member/liuyiyi/</guid>
-      <description>I am a 2023 graduate student in School of Basic Medical Sciences at Xi &amp;lsquo;an Jiaotong University. I graduated from Jilin University with a bachelor&amp;rsquo;s degree in agriculture, during which I learned biochemistry, cytobiology and other professional courses. In this summer vacation, I taught myself R language, RNA-seq analysis and other bioinformatics skills.</description>
+      <guid>https://xiaolab-xjtu.github.io/member/6-liyuhan/</guid>
+      <description>I am a direct doctoral student in Mr. Xiao&amp;rsquo;s research group. I graduated from Northwest A&amp;amp;F University with a bachelor&amp;rsquo;s degree. in 2022，I joined the laboratory and carried out research on bioinformatics and tumor metabolism.</description>
     </item>
     
     <item>
-      <title>Member 50</title>
-      <link>https://xiaolab-xjtu.github.io/member/cuihanxiao/</link>
+      <title>Member 07</title>
+      <link>https://xiaolab-xjtu.github.io/member/7-wangwanting/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://xiaolab-xjtu.github.io/member/cuihanxiao/</guid>
-      <description>I am a master student learning bioinformatics in Dr.Xiao&amp;rsquo;s research group. I joined the lab and carried out my research on bioinformatics and tumor metabolism.</description>
+      <guid>https://xiaolab-xjtu.github.io/member/7-wangwanting/</guid>
+      <description>I am a graduate student at the School of Basic Medical Sciences, Xi’an Jiaotong University. I graduated from Shihezi University with a bachelor’s degree in Nursing. In 2023, I joined the laboratory and carried out research on bioinformatics and cancer metabolism.</description>
     </item>
     
     <item>
-      <title>Member 51</title>
-      <link>https://xiaolab-xjtu.github.io/member/baoyuanhang/</link>
+      <title>Member 08</title>
+      <link>https://xiaolab-xjtu.github.io/member/8-zhangtian/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://xiaolab-xjtu.github.io/member/baoyuanhang/</guid>
-      <description>I am a master student learning bioinformatics in Dr.Xiao&amp;rsquo;s research group. I graduated from Xi&amp;rsquo;an Jiaotong University with a bachelor&amp;rsquo;s degree in 2021. Then, I joined the lab and carried out my research on bioinformatics and tumor metabolism.</description>
+      <guid>https://xiaolab-xjtu.github.io/member/8-zhangtian/</guid>
+      <description>I am a 2024 graduate student in School of Basic Medical Sciences at Xi’an Jiaotong University. I graduated from Shandong University of traditional Chinese medicine with a bachelor&amp;rsquo;s degree. in 2024, I joined the laboratory and carried out research on bioinformatics and tumor metabolism.</description>
     </item>
     
     <item>
-      <title>Member 54</title>
-      <link>https://xiaolab-xjtu.github.io/member/quqiuhao/</link>
+      <title>Member 09</title>
+      <link>https://xiaolab-xjtu.github.io/member/9-mayixin/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://xiaolab-xjtu.github.io/member/quqiuhao/</guid>
-      <description>I am a graduate student of Life Science College of Life Science at Anhui Medical University. Currently, I am learning how to analyse the effect of transcription factor regulation of target genes on cancer development based on conditional mutual information in the laboratory of Prof Xiao Zhengtao at the School of Basic Medical Sciences, Xi&amp;rsquo;an Jiaotong University.</description>
+      <guid>https://xiaolab-xjtu.github.io/member/9-mayixin/</guid>
+      <description>I am a graduate student at the School of Basic Medical Sciences, Xi’an Jiaotong University. I graduated from Sichuan University with a bachelor’s degree in Preventive Medicine. In 2024, I joined the laboratory and carried out research on bioinformatics and cancer metabolism.</description>
     </item>
     
     <item>
-      <title>Member 91</title>
-      <link>https://xiaolab-xjtu.github.io/member/liuhuilin/</link>
+      <title>Member 10</title>
+      <link>https://xiaolab-xjtu.github.io/member/10-zhangzhitao/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://xiaolab-xjtu.github.io/member/liuhuilin/</guid>
-      <description>I am a graduate student of Life Science College of Life Science at Northwest Normal University. Currently, I am learning how to screen anti-tumor compounds by network pharmacology from the laboratory of Professor Zhengtao Xiao of Basic Medical Sciences of Xi &amp;lsquo;an Jiaotong University.</description>
-    </item>
-    
-    <item>
-      <title>Member 52</title>
-      <link>https://xiaolab-xjtu.github.io/member/huliqun/</link>
-      <pubDate>Thu, 24 Sep 2015 15:52:22 +0200</pubDate>
-      
-      <guid>https://xiaolab-xjtu.github.io/member/huliqun/</guid>
-      <description>I am a master student learning bioinformatics in Dr.Xiao&amp;rsquo;s research group. I graduated from Xi&amp;rsquo;an Jiaotong University with a bachelor&amp;rsquo;s degree in 2021. Then, I joined the lab and carried out my research on bioinformatics and tumor metabolism.</description>
+      <guid>https://xiaolab-xjtu.github.io/member/10-zhangzhitao/</guid>
+      <description>I graduated from Harbin Medical University in 2024, obtaining a Bachelor of Science in Biomedical Engineering and a University Honors Bachelor&amp;rsquo;s Degree. Currently, I am pursuing a master&amp;rsquo;s degree at Xi&amp;rsquo;an Jiaotong University. Additionally, I am proficient in R and Python programming languages, and currently studying machine learning and knowledge related to cfDNA (cell-free DNA).</description>
     </item>
     
   </channel>
